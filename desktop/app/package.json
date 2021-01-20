@@ -27,7 +27,7 @@
     "expand-tilde": "^2.0.2",
     "flipper-doctor": "0.42.0",
     "fs-extra": "^8.0.1",
-    "immer": "^6.0.0",
+    "immer": "^8.0.1",
     "immutable": "^4.0.0-rc.12",
     "invariant": "^2.2.2",
     "live-plugin-manager": "^0.14.0",
